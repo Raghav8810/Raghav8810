@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![logo](https://github.com/Raghav8810/Raghav8810/blob/main/Real%20programmers%20count%20from%200.png)
 <h1 align="center">Hi 👋, I'm Sumit Raghav</h1>
-<h3 align="center">A passionate frontend developer from india</h3>
+<h3 align="center">I am a software engineer from india</h3>
 <img align="right" alt="coding pic" width="400" src="https://media.licdn.com/dms/image/C5622AQF6OQJ6x1OPPA/feedshare-shrink_2048_1536/0/1677530409171?e=2147483647&v=beta&t=Vfiapnm0fzsXpvPvBdrAIDMLwdvw-691ri8gYTmj6hY">
 
 
